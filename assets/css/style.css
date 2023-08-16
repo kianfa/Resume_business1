@@ -62,7 +62,7 @@ a:hover {
 }
 
 h4 {
-    font-size: 30px;
+    font-size: 15px;
 }
 
 /* Buttons */ 
@@ -410,10 +410,16 @@ html, body {
     opacity: 1;
 }
 
-.portfolio-item-info h4 {
+.portfolio-item-info h4  {
     margin: 0 0 20px;
     font-weight: 700;
     color: #fff;
+}
+.class_white {
+    margin: 30px 0 20px;
+    font-weight: 100;
+    color: #fff;
+    font-size: 30px;
 }
 
 .portfolio-item-info a {
