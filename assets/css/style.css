@@ -63,6 +63,7 @@ a:hover {
 
 h4 {
     font-size: 15px;
+    padding-right: 30px;
 }
 
 /* Buttons */ 
@@ -112,7 +113,7 @@ h4 {
     box-shadow: none;
     outline: 0 none transparent;
     -webkit-appearance:none;
- }
+}
 
 textarea {
     margin-top: 40px;
@@ -142,6 +143,20 @@ html, body {
     color: #212121;
 }
 
+.about_text{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.contact_text{
+    font-size: 25px;
+    text-align: center;
+}
+
+.portfolio_text{
+    font-size: 14px;
+    text-align: justify;
+}
 .img-res {
     display: block;
     width: 100vw;
@@ -356,6 +371,7 @@ html, body {
 .service p {
     color: #000;
     margin-bottom: 0;
+    /*text-align: justify;*/
 }
 
 /* Section: Portfolio */
